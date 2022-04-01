@@ -1,0 +1,6 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\WhileLoop\obj\Debug\WhileLoop.pdb

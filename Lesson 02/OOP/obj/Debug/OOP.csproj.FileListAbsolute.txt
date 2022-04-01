@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\bin\Debug\OOP.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\bin\Debug\OOP.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\bin\Debug\OOP.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\obj\Debug\OOP.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 02\OOP\obj\Debug\OOP.pdb

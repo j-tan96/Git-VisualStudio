@@ -1,0 +1,6 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\ForLoop\obj\Debug\ForLoop.pdb

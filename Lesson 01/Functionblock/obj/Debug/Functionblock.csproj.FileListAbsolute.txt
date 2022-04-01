@@ -1,0 +1,6 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\bin\Debug\Functionblock.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\bin\Debug\Functionblock.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\bin\Debug\Functionblock.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\obj\Debug\Functionblock.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\obj\Debug\Functionblock.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Functionblock\obj\Debug\Functionblock.pdb

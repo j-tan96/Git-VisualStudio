@@ -1,0 +1,12 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\bin\Debug\FunctionblockSquare.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\bin\Debug\FunctionblockSquare.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\bin\Debug\FunctionblockSquare.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\obj\Debug\FunctionblockSquare.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\obj\Debug\FunctionblockSquare.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\FunctionblockSquare\obj\Debug\FunctionblockSquare.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\bin\Debug\FunctionblockSquare.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\bin\Debug\FunctionblockSquare.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\bin\Debug\FunctionblockSquare.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\obj\Debug\FunctionblockSquare.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\obj\Debug\FunctionblockSquare.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01\FunctionblockSquare\obj\Debug\FunctionblockSquare.pdb
