@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\bin\Debug\CodingExercise.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\bin\Debug\CodingExercise.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\obj\Debug\CodingExercise.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\obj\Debug\CodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\obj\Debug\CodingExercise.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\CodingExercise\obj\Debug\CodingExercise.pdb

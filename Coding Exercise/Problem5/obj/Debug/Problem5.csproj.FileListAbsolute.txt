@@ -1,0 +1,6 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\bin\Debug\Problem5.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\bin\Debug\Problem5.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\bin\Debug\Problem5.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\obj\Debug\Problem5.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Coding Exercise\Problem5\obj\Debug\Problem5.pdb
