@@ -1,0 +1,13 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\bin\Debug\AreaOfShapeWindowsForm.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\bin\Debug\AreaOfShapeWindowsForm.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\bin\Debug\AreaOfShapeWindowsForm.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.Circle.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.Form1.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.Properties.Resources.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.Rectangle.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.Triangle.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.csproj.GenerateResource.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\AreaOfShapeWindowsForm\obj\Debug\AreaOfShapeWindowsForm.pdb

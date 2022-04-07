@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\bin\Debug\Basicoop.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\bin\Debug\Basicoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\bin\Debug\Basicoop.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\obj\Debug\Basicoop.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\obj\Debug\Basicoop.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\obj\Debug\Basicoop.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP\Basicoop\obj\Debug\Basicoop.pdb
