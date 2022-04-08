@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\bin\Debug\Collections.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\bin\Debug\Collections.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\bin\Debug\Collections.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\obj\Debug\Collections.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 07\Collections\obj\Debug\Collections.pdb

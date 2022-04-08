@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\bin\Debug\ArrayList1UsingList.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\bin\Debug\ArrayList1UsingList.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\bin\Debug\ArrayList1UsingList.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\obj\Debug\ArrayList1UsingList.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\obj\Debug\ArrayList1UsingList.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\obj\Debug\ArrayList1UsingList.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Lesson 01 - Data Structures - ArrayList\ArrayList1UsingList\obj\Debug\ArrayList1UsingList.pdb

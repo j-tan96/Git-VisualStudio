@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\bin\Debug\NumberExercise6Tries.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\bin\Debug\NumberExercise6Tries.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\bin\Debug\NumberExercise6Tries.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\obj\Debug\NumberExercise6Tries.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\obj\Debug\NumberExercise6Tries.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\obj\Debug\NumberExercise6Tries.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\NumberExercise6Tries\obj\Debug\NumberExercise6Tries.pdb

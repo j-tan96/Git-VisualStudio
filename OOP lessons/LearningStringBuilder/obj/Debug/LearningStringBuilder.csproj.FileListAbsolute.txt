@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\bin\Debug\LearningStringBuilder.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\bin\Debug\LearningStringBuilder.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\bin\Debug\LearningStringBuilder.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\obj\Debug\LearningStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\obj\Debug\LearningStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\obj\Debug\LearningStringBuilder.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\LearningStringBuilder\obj\Debug\LearningStringBuilder.pdb
