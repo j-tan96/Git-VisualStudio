@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\bin\Debug\Wordle.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\bin\Debug\Wordle.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\bin\Debug\Wordle.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\obj\Debug\Wordle.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\OOP lessons\Wordle\obj\Debug\Wordle.pdb

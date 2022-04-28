@@ -1,0 +1,6 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\bin\Debug\Hangman2.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\bin\Debug\Hangman2.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\bin\Debug\Hangman2.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\obj\Debug\Hangman2.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\obj\Debug\Hangman2.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman2\obj\Debug\Hangman2.pdb

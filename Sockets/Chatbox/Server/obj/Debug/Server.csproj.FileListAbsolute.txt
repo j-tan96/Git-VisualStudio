@@ -1,0 +1,9 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\bin\Debug\Server.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\bin\Debug\Server.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\bin\Debug\Server.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.WinClient.resources
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Sockets\Chatbox\Server\obj\Debug\Server.pdb
