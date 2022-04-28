@@ -61,7 +61,7 @@ namespace Hangman
                     }
                     i++;
                 }
-                Console.WriteLine(underscore);
+                //Console.WriteLine(underscore);
                 return underscore;
             }
             else
@@ -186,14 +186,10 @@ namespace Hangman
         {
 
             // pick random word from list
-            List<string> word = new List<string>();
-            word.Add("HAT");
-            word.Add("ELEPHANT");
-            word.Add("APPLE");
-            word.Add("CIRCUS");
-            word.Add("RACING");
-            Random ran = new Random();
-            string rdmWord = word[ran.Next(0, word.Count - 1)];
+            Random random = new Random();
+            string[] split = System.IO.File.ReadAllLines(@"C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\words_alpha.txt");
+            split = split.Select(s => s.ToUpperInvariant()).ToArray();
+            string rdmWord = split[random.Next(0, split.Length)];
             Console.WriteLine(rdmWord);
 
 
@@ -204,6 +200,7 @@ namespace Hangman
                 underscore = underscore + "_";
             }
             Console.WriteLine(underscore);
+            Console.WriteLine("This is a {0}-letter word", underscore.Length);
 
 
             // prints a hangman
@@ -235,6 +232,14 @@ namespace Hangman
                         Console.WriteLine("Congratulations! The word was: {0}", rdmWord);
                         goto End;
                     }
+                    if (incorrectAttempts == 6)
+                    {
+                        Console.WriteLine("You have lost! The word was: {0}", rdmWord);
+                    }
+                    else
+                    {
+                        Console.WriteLine(underscore);
+                    }
 
 
 
@@ -243,15 +248,18 @@ namespace Hangman
                 {
                     Console.WriteLine("kept as string: {0}", inputString);
 
-                    if (incorrectAttempts == inputWordAtt(inputString, rdmWord, incorrectAttempts))
+                    int tracker = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    if (incorrectAttempts == tracker)
                     {
                         figureBuilder(incorrectAttempts);
                         goto End;
                     }
 
-                    incorrectAttempts = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    incorrectAttempts = tracker;
                     figureBuilder(incorrectAttempts);
                 }
+                
+
             }
 
         End:

@@ -61,7 +61,7 @@ namespace Hangman
                     }
                     i++;
                 }
-                Console.WriteLine(underscore);
+                //Console.WriteLine(underscore);
                 return underscore;
             }
             else
@@ -243,15 +243,18 @@ namespace Hangman
                 {
                     Console.WriteLine("kept as string: {0}", inputString);
 
-                    if (incorrectAttempts == inputWordAtt(inputString, rdmWord, incorrectAttempts))
+                    int tracker = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    if (incorrectAttempts == tracker)
                     {
                         figureBuilder(incorrectAttempts);
                         goto End;
                     }
 
-                    incorrectAttempts = inputWordAtt(inputString, rdmWord, incorrectAttempts);
+                    incorrectAttempts = tracker;
                     figureBuilder(incorrectAttempts);
                 }
+                Console.WriteLine(underscore);
+                
             }
 
         End:

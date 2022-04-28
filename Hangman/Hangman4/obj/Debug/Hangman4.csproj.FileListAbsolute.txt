@@ -4,3 +4,4 @@ C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman4\bin\Debug\Ha
 C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman4\obj\Debug\Hangman4.csproj.CoreCompileInputs.cache
 C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman4\obj\Debug\Hangman4.exe
 C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman4\obj\Debug\Hangman4.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman4\obj\Debug\Hangman4.csproj.AssemblyReference.cache

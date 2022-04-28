@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\bin\Debug\Hangman5.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\bin\Debug\Hangman5.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\bin\Debug\Hangman5.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\obj\Debug\Hangman5.csproj.AssemblyReference.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\obj\Debug\Hangman5.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\obj\Debug\Hangman5.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman5\obj\Debug\Hangman5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\bin\Debug\Hangman8.exe.config
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\bin\Debug\Hangman8.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\bin\Debug\Hangman8.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\obj\Debug\Hangman8.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\obj\Debug\Hangman8.exe
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\obj\Debug\Hangman8.pdb
+C:\Users\Jesse\Desktop\Capita\VisualStudio2019\Git\Hangman\Hangman8\obj\Debug\Hangman8.csproj.AssemblyReference.cache
